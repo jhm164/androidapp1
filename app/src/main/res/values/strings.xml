@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">login app</string>
+    <string name="error_no_sensor"></string>
+    <string name="light_sensor_1_2f">Light Sensor: %1$.2f</string>
+</resources>
